@@ -30,4 +30,4 @@ Features:
 - Basic analytics
 
 ## Contact
-Email: your-email@example.com
+Email: fitriaesanur@gmail.com
